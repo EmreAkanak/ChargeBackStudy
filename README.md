@@ -18,6 +18,18 @@ Real Life ChargeBack Prediction and Prevention Study with Real Data
 
 ### Building a predictive model to prevent Charge Backs and Refunds
 
+
+The study includes around 100000 transactions and a serious amount of charge back. Regarding a KDD: Knowledge Discovery in Data and FE: Feature Engineering a classification model was developed and implemented. 
+
+Without an optimization study around 78% of TP: True Positives detected which means a serious outcome for the company. 
+
+
+The company is an app seller company in PC AppStore and has serious chargeback problem. 
+
+
+The study provides ability to prevent problematic purchases to reduce chargeback rates. 
+
+
       
   </ol>
 </details>
