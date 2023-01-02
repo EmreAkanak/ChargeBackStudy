@@ -11,9 +11,16 @@ Real Life ChargeBack Prediction and Prevention Study with Real Data
 
 
 
+<details>
+  <summary><strong>Click to See Detail</strong></summary>
+  <ol>
 
 
+### Building a predictive model to prevent Charge Backs and Refunds
 
+      
+  </ol>
+</details>
 
 
 
